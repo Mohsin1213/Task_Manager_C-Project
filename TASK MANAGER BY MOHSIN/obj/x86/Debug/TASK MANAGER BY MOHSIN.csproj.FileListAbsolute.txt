@@ -1,0 +1,31 @@
+C:\Users\NAUSIF\Desktop\CustomizedTaskManager By Nausif AND Irfan\CustomizedTaskManager By Nausif AND Irfan\obj\x86\Debug\CustomizedTaskManager By Nausif AND Irfan.exe
+C:\Users\NAUSIF\Desktop\CustomizedTaskManager By Nausif AND Irfan\CustomizedTaskManager By Nausif AND Irfan\obj\x86\Debug\CustomizedTaskManager By Nausif AND Irfan.pdb
+C:\Users\NAUSIF\Desktop\CustomizedTaskManager By Nausif AND Irfan\CustomizedTaskManager By Nausif AND Irfan\bin\Debug\CustomizedTaskManager By Nausif AND Irfan.exe
+C:\Users\NAUSIF\Desktop\CustomizedTaskManager By Nausif AND Irfan\CustomizedTaskManager By Nausif AND Irfan\bin\Debug\CustomizedTaskManager By Nausif AND Irfan.pdb
+C:\Users\NAUSIF\Desktop\CustomizedTaskManager By Nausif AND Irfan\CustomizedTaskManager By Nausif AND Irfan\obj\x86\Debug\CustomizedTaskManager_By_Nausif_AND_Irfan.Form1.resources
+C:\Users\NAUSIF\Desktop\CustomizedTaskManager By Nausif AND Irfan\CustomizedTaskManager By Nausif AND Irfan\obj\x86\Debug\CustomizedTaskManager_By_Nausif_AND_Irfan.Properties.Resources.resources
+C:\Users\NAUSIF\Desktop\CustomizedTaskManager By Nausif AND Irfan\CustomizedTaskManager By Nausif AND Irfan\obj\x86\Debug\TASK MANAGER BY MOHSIN.csproj.GenerateResource.Cache
+C:\Users\NAUSIF\Desktop\TASK MANAGER BY MOHSIN\CustomizedTaskManager By Nausif AND Irfan\bin\Debug\CustomizedTaskManager By Nausif AND Irfan.exe
+C:\Users\NAUSIF\Desktop\TASK MANAGER BY MOHSIN\CustomizedTaskManager By Nausif AND Irfan\bin\Debug\CustomizedTaskManager By Nausif AND Irfan.pdb
+C:\Users\NAUSIF\Desktop\TASK MANAGER BY MOHSIN\CustomizedTaskManager By Nausif AND Irfan\obj\x86\Debug\TASK MANAGER BY MOHSIN.csprojResolveAssemblyReference.cache
+C:\Users\NAUSIF\Desktop\TASK MANAGER BY MOHSIN\CustomizedTaskManager By Nausif AND Irfan\obj\x86\Debug\CustomizedTaskManager_By_Nausif_AND_Irfan.Form1.resources
+C:\Users\NAUSIF\Desktop\TASK MANAGER BY MOHSIN\CustomizedTaskManager By Nausif AND Irfan\obj\x86\Debug\CustomizedTaskManager_By_Nausif_AND_Irfan.Properties.Resources.resources
+C:\Users\NAUSIF\Desktop\TASK MANAGER BY MOHSIN\CustomizedTaskManager By Nausif AND Irfan\obj\x86\Debug\TASK MANAGER BY MOHSIN.csproj.GenerateResource.Cache
+C:\Users\NAUSIF\Desktop\TASK MANAGER BY MOHSIN\CustomizedTaskManager By Nausif AND Irfan\obj\x86\Debug\CustomizedTaskManager By Nausif AND Irfan.exe
+C:\Users\NAUSIF\Desktop\TASK MANAGER BY MOHSIN\CustomizedTaskManager By Nausif AND Irfan\obj\x86\Debug\CustomizedTaskManager By Nausif AND Irfan.pdb
+C:\Users\NAUSIF\Desktop\TASK MANAGER BY MOHSIN\TASK MANAGER BY MOHSIN\obj\x86\Debug\TASK MANAGER BY MOHSIN.csprojResolveAssemblyReference.cache
+C:\Users\NAUSIF\Desktop\TASK MANAGER BY MOHSIN\TASK MANAGER BY MOHSIN\obj\x86\Debug\TASK_MANAGER_BY_MOHSIN.Form1.resources
+C:\Users\NAUSIF\Desktop\TASK MANAGER BY MOHSIN\TASK MANAGER BY MOHSIN\obj\x86\Debug\TASK MANAGER BY MOHSIN.csproj.GenerateResource.Cache
+C:\Users\NAUSIF\Desktop\TASK MANAGER BY MOHSIN\TASK MANAGER BY MOHSIN\bin\Debug\TASK MANAGER BY MOHSIN.exe
+C:\Users\NAUSIF\Desktop\TASK MANAGER BY MOHSIN\TASK MANAGER BY MOHSIN\bin\Debug\TASK MANAGER BY MOHSIN.pdb
+C:\Users\NAUSIF\Desktop\TASK MANAGER BY MOHSIN\TASK MANAGER BY MOHSIN\obj\x86\Debug\TASK_MANAGER_BY_MOHSIN.Properties.Resources.resources
+C:\Users\NAUSIF\Desktop\TASK MANAGER BY MOHSIN\TASK MANAGER BY MOHSIN\obj\x86\Debug\TASK MANAGER BY MOHSIN.exe
+C:\Users\NAUSIF\Desktop\TASK MANAGER BY MOHSIN\TASK MANAGER BY MOHSIN\obj\x86\Debug\TASK MANAGER BY MOHSIN.pdb
+D:\Mohsin's data\5th Smester\Os\TASK MANAGER BY MOHSIN\TASK MANAGER BY MOHSIN\obj\x86\Debug\TASK MANAGER BY MOHSIN.exe
+D:\Mohsin's data\5th Smester\Os\TASK MANAGER BY MOHSIN\TASK MANAGER BY MOHSIN\obj\x86\Debug\TASK MANAGER BY MOHSIN.pdb
+D:\Mohsin's data\5th Smester\Os\TASK MANAGER BY MOHSIN\TASK MANAGER BY MOHSIN\bin\Debug\TASK MANAGER BY MOHSIN.exe
+D:\Mohsin's data\5th Smester\Os\TASK MANAGER BY MOHSIN\TASK MANAGER BY MOHSIN\bin\Debug\TASK MANAGER BY MOHSIN.pdb
+D:\Mohsin's data\5th Smester\Os\TASK MANAGER BY MOHSIN\TASK MANAGER BY MOHSIN\obj\x86\Debug\TASK MANAGER BY MOHSIN.csprojResolveAssemblyReference.cache
+D:\Mohsin's data\5th Smester\Os\TASK MANAGER BY MOHSIN\TASK MANAGER BY MOHSIN\obj\x86\Debug\TASK_MANAGER_BY_MOHSIN.Form1.resources
+D:\Mohsin's data\5th Smester\Os\TASK MANAGER BY MOHSIN\TASK MANAGER BY MOHSIN\obj\x86\Debug\TASK_MANAGER_BY_MOHSIN.Properties.Resources.resources
+D:\Mohsin's data\5th Smester\Os\TASK MANAGER BY MOHSIN\TASK MANAGER BY MOHSIN\obj\x86\Debug\TASK MANAGER BY MOHSIN.csproj.GenerateResource.Cache
